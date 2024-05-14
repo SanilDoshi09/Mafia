@@ -1,3 +1,3 @@
 # Mafia
 
-MafiaVR: MafiaVR: An Apple Vision Pro gaming experience
+MafiaVR: An Apple Vision Pro gaming experience
